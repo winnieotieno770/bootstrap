@@ -1,0 +1,72 @@
+.red{
+    background-color: red;
+
+}
+.small{
+    width: 150px;
+    margin-top: 10px;
+    height: 70px;
+}
+.size{
+    width:50px;
+}
+.fontsize{
+    font-size:12px;
+    font-family: calibri;
+}
+.fontsize:hover{
+    font-weight: bold;
+   
+}
+.bord{
+    border-top: 3.5px solid#dddd;
+    padding-top: 5px;
+    border-bottom: 3.5px solid#dddd;
+}
+.vs{
+    border-radius: 50%;
+    position: relative; ;
+    height: 30px;
+    margin-left: 45%;
+    text-align: center;
+    width: 25px;
+    margin-top: -6%;background-color: black!important;
+
+}
+.insight{
+    position: absolute;
+    top: 79.5%;
+}
+.start{
+    font-size: 0.9rem;
+}
+.best{
+    font-weight: bold;
+    font-size: 2rem;
+    text-align: center;
+}
+.supersmall{
+    font-size: 10px;
+}
+.supersmall1{
+    font-size: 14px;
+}
+.fdr{
+    position: absolute;
+    top:1%;
+    left: 19%;
+    padding-top: 10%;
+}
+.white{
+    color:white;
+    font-size: 40px;
+    padding: 5;
+    text-decoration:none;
+    margin-right:10px;
+}
+.white > a {
+    color:white;
+    text-decoration:none;
+    font-family:monospace, Helvetica, sans-serif;
+    
+}
